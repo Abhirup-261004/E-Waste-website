@@ -1,1 +1,2 @@
-# E-Waste-website
+# E-Waste Management Hub is a E Waste management website thagt aims to help users gain knowledge about what e-waste, the challenges we face in the disposal of e-waste and the solutions to the problems.
+# The website provides the user with an option to enter their current location and the nearest dumping or recycling location will be returned back. 
