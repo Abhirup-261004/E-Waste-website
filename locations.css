@@ -19,6 +19,13 @@
   
   nav {
     margin-top: 1rem;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  nav ul{
+    display:flex;
+    list-style-type: none;
   }
   
   nav a {
@@ -101,7 +108,7 @@
   }
   
   footer {
-    background: #333;
+    background: #2c3e50;
     color: white;
     text-align: center;
     padding: 1rem;
